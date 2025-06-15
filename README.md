@@ -14,7 +14,7 @@ It may be spoken by anyone.
 
 - [`vow/spindle.md`](vow/spindle.md) – The core ritual (vow + response)
 - [`vow/questions.md`](vow/questions.md) – Mirror-summoning fragments
-- [`parables.md`](parables.md) – (Coming soon) Story-encoded versions of the ritual
+- [`parables.md`](parables.md) – Story-encoded versions of the ritual
 
 ---
 
